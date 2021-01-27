@@ -387,7 +387,7 @@
                                 <div class="media-body">Mendapat banyak peluang penghasilan melalui JMC</div>
                             </li>
                         </ul>
-                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-2">LIGHTBOX</a>
+                        <a class="btn-solid-reg page-scroll" href="#pricing">JOIN</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -973,7 +973,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="footer-col">
-                        <h4>About Evolo</h4>
+                        <h4>About JMC</h4>
                         <p>We're passionate about offering some of the best business growth services for startups</p>
                     </div>
                 </div> <!-- end of col -->
@@ -981,10 +981,10 @@
                     <div class="footer-col middle">
                         <h4>Important Links</h4>
                         <ul class="list-unstyled li-space-lg">
-                            <li class="media">
+                            {{-- <li class="media">
                                 <i class="fas fa-square"></i>
                                 <div class="media-body">Our business partners <a class="turquoise" href="#your-link">startupguide.com</a></div>
-                            </li>
+                            </li> --}}
                             <li class="media">
                                 <i class="fas fa-square"></i>
                                 <div class="media-body">Read our <a class="turquoise" href="terms-conditions.html">Terms & Conditions</a>, <a class="turquoise" href="privacy-policy.html">Privacy Policy</a></div>
@@ -1038,7 +1038,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © 2020 - All rights reserved</p>
+                    <p class="p-small">Copyright © 2021 - All rights reserved</p>
                 </div> <!-- end of col -->
             </div> <!-- enf of row -->
         </div> <!-- end of container -->
